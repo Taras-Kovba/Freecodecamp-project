@@ -13,8 +13,8 @@ p{text-align:center;
 
 #img-div{text-align:center;}
 
-#image{height:auto;
-       max-width:100%;
+#image{min-width:25%
+       max-width:50%;
 }
 
 #img-caption{font-size:25px;
